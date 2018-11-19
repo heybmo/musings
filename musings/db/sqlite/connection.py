@@ -14,4 +14,5 @@ class Connection(object):
 
         config -- An INI config file (default: None)
         """
-        
+        if config is not None:
+            

@@ -1,3 +1,13 @@
 {
-  "editor.rulers": [78]
+  "editor.rulers": [
+    78
+  ],
+  "C_Cpp.clang_format_fallbackStyle": "Google",
+  "C_Cpp.clang_format_style": "file",
+  "C_Cpp.configurationWarnings": "Enabled",
+  "C_Cpp.commentContinuationPatterns": [
+    "/**"
+  ],
+  "C_Cpp.errorSquiggles": "Enabled",
+
 }
